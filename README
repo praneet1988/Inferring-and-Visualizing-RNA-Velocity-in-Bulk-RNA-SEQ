@@ -57,3 +57,4 @@ velocyto run -U -m GENOME-MASKED-GTF --outputfolder VELOCYTO_OUT OUTbamAligned.v
 Step6:
 ***** if Multiple samples please combine .loom files using command -- python3 LoomCombine.py ****   **Please see LoomCombine.py is available in the repository for download**
 python3 scVelo.py VELOCYTO_OUT.loom OUTFILE-PREFIX
+*** scVelo.py has a requirement of Annotations.txt file to back-map sample information in case of multiple samples processed using combined loom file***
