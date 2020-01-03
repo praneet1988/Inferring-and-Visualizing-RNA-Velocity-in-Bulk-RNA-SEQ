@@ -1,5 +1,9 @@
 Inferring RNA-Velocity in Bulk RNA-Seq samples
 
+What is RNA-Velocity?
+RNA-Velocity in simple words the ratio of spliced vs unsliced transcripts. mRNA splicing kinetics: Transcriptional induction for a particular gene results in an increase of (newly transcribed) precursor unspliced mRNAs while, conversely, repression or absence of transcription results in a decrease of unspliced mRNAs. Please see: https://www.nature.com/articles/s41586-018-0414-6)
+Source: https://scvelo.readthedocs.io/
+
 Please suggest improvements by forking a branch and report bugs on Issues section.
 
 Software/Tool Requirements:
