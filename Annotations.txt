@@ -1,0 +1,8 @@
+###****Please remove this line when using the file: Lets assume you have two samples with three reps each then the file should be as shown below*****
+SampleType
+Sample1
+Sample1
+Sample1
+Sample2
+Sample2
+Sample2
