@@ -78,4 +78,4 @@ __scVelo.py has a requirement of Annotations.txt file to back-map sample informa
 samples processed using combined loom file__
 
 ### Example graphs
-![Graph] [graph.png]
+![Graph](graph.png)
