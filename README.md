@@ -36,6 +36,7 @@ numpy - a python module [https://numpy.org/]
 matplotlib - a python module [https://matplotlib.org/]
 
 
+
 ### Major Steps for inferring RNA-Velocity in Bulk RNA-Seq samples:
 
 1. Map the raw RNA-Seq reads to genome of interest using STAR
