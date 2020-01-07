@@ -12,16 +12,27 @@ Please suggest improvements by forking a branch and report bugs on Issues sectio
 
 ## Software/Tool Requirements:
 STAR [version 2.6.1 =>]  [https://github.com/alexdobin/STAR]
+
 python3 [version 3.7.1]  [https://www.python.org/downloads/]
+
 R [version 3.5.0 =>]     [https://www.r-project.org/]
+
 simplesam - a python module [https://simplesam.readthedocs.io/en/latest/#]
+
 samtools [version 1.8.0 =>] [http://www.htslib.org/]
+
 velocyto [http://velocyto.org/velocyto.py/install/index.html]
+
 scVelo [https://scvelo.readthedocs.io/]
+
 loompy - a python module [http://linnarssonlab.org/loompy/installation/index.html]
+
 scanpy [https://scanpy.readthedocs.io/en/stable/installation.html]
+
 pandas - a python module [https://pandas.pydata.org/]
+
 numpy - a python module [https://numpy.org/]
+
 matplotlib - a python module [https://matplotlib.org/]
 
 
